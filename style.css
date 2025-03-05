@@ -43,3 +43,8 @@ body{
 .text p{
     color: hsl(216, 15%, 48%);
 }
+
+.sig p{
+    color: rgb(185, 185, 185);
+    padding-top: 20px;
+}
